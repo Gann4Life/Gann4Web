@@ -1,0 +1,19 @@
+{
+    "games":{
+        "thirdym":{
+            "version": "undefined"
+        },
+        "sample-game":{
+            "version":null
+        }
+    },
+    "apps":{
+        "ldp_store_manager":{
+            "version":"undefined",
+            "download_link":""
+        },
+        "sample-app":{
+            "version":null
+        }
+    }
+}
