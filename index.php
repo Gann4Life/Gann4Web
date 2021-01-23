@@ -11,7 +11,7 @@
     <p>Site list:</p>
     <ul>
         <li>
-            <a href="projects/thirdym/thirdym.php">Thirdym outdated site</a>
+            <a href="thirdym.php">Thirdym outdated site</a>
         </li>
         <li>
             <a href="digitalart.php">Art page</a>

@@ -9,6 +9,7 @@
 
 </head>
 <body>
+    <a href="index.php" style="color: white;">Return to Home</a>
     <div class="container">
         <h2 class="title">Thirdym</h2>
 
