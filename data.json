@@ -19,7 +19,7 @@
     "websites":{
         "gann4life":
         {
-            "maintenance": "true"
+            "maintenance": "false"
         }
     }
 }

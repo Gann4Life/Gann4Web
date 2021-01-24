@@ -5,14 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thirdym by Gann4Life</title>
     <link rel="stylesheet" href="css/thirdym.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Krona+One&display=swap" rel="stylesheet">
+    <?php include "templates/general-imports.php" ?>
 </head>
 <body>
     <?php
-        include "templates\\header.php";
+        include "templates/header.php";
     ?>
     <div class="content centered">
         <div class="container">
@@ -88,7 +86,7 @@
         </div>
     </div>
     <?php 
-        include "templates\\footer.php"; 
+        include "templates/footer.php"; 
     ?>
 </body>
 </html>
