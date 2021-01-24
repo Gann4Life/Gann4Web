@@ -15,5 +15,11 @@
         "sample-app":{
             "version":null
         }
+    },
+    "websites":{
+        "gann4life":
+        {
+            "maintenance": "true"
+        }
     }
 }
