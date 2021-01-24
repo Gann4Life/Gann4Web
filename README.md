@@ -1,5 +1,5 @@
 # Gann4Web
 
 <p>PHP Version: 7.4</p>
-<a>gann4life.000webhostapp.com</a>
-<a>gann4life.ca</a>
+<a href="http://gann4life.000webhostapp.com">gann4life.000webhostapp.com</a>
+<a href="http://gann4life.ga">gann4life.ca</a>
