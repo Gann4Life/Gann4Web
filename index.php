@@ -25,7 +25,7 @@
     ?>
 
     <div class="content centered">
-        <h1>Welcome to my small website, i'm Gann4Life. :)</h1>
+        <h1 class="content-title">Welcome :)</h1>
 
         <p>I'm Gann4Life, and i love making art, music and programming.</p>
         <p>I was born on September 20, 2002.</p>

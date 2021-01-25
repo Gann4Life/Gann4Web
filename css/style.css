@@ -46,6 +46,9 @@ body{
     padding: 75px 25px;
     animation: fadeIn 1s;
 }
+.content-title{
+    font-size: 15vh;
+}
 .art-content {
     display: flex;
     flex-wrap: wrap;
@@ -69,6 +72,17 @@ footer{
 .centered{
     justify-content: center;
     text-align: center;
+}
+
+.button{
+    background-color: white;
+    padding: 2% 4%;
+}
+.button:hover{
+    transition: background-color 0.1s;
+    transition: border-bottom 0.1s;
+    border-bottom: magenta solid 2px;
+    background-color: pink;
 }
 
 #maintenance-center{

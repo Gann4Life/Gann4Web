@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="maintenance-center" class="content">
-        <h1>This website is in maintenance.</h1>
+        <h1 class="content-title">This website is in maintenance.</h1>
         <p>The website is currently being updated for a better experience, please, be patient! We're going to be back soon. :)</p>
         <p>Quick contact / info:</p>
         <ul>
