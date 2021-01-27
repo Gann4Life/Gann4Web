@@ -28,8 +28,7 @@
         <h1 class="content-title">Welcome :)</h1>
 
         <p>I'm Gann4Life, and i love making art, music and programming.</p>
-        <p>I was born on September 20, 2002.</p>
-        <p>To be honest, i don't have anything to talk about, but i have a lot to show!</p>
+        <p>I am currently setting up properly this website. Go and check it out!<p>
 
 
     </div>

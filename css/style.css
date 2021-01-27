@@ -75,14 +75,7 @@ footer{
 }
 
 .button{
-    background-color: white;
     padding: 2% 4%;
-}
-.button:hover{
-    transition: background-color 0.1s;
-    transition: border-bottom 0.1s;
-    border-bottom: magenta solid 2px;
-    background-color: pink;
 }
 
 #maintenance-center{
