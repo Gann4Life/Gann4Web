@@ -16,10 +16,11 @@ nav {
     justify-content: space-around;
     width: 100%;
 }
+/*
 .header-title{
 }
 .header-buttons{
-}
+}*/
 #menu-button{
     display: none;
 }
@@ -91,7 +92,7 @@ footer{
     transform: scaleX(-1);
 }
 
-@media (max-width: 760px){
+@media (max-width: 810px){
     .remove{display:none;}
     .header-title{text-align: center;}
     nav{

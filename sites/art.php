@@ -7,9 +7,7 @@
     <title>Art</title>
 </head>
 <body>
-    <?php
-        include "templates/header.php";
-    ?>
+    <?php include "templates/header.php" ?>
 
     <div class="content centered">
         <h1 class="content-title">Art</h1>
@@ -43,6 +41,6 @@
     </div>
 
     <!-- This file is supposed to use the 'digitalart' folder, for loading pictures, descriptions, or whatever -->
-    <?php include "templates/footer.php"; ?>
+    <?php include "templates/footer.php" ?>
 </body>
 </html>
