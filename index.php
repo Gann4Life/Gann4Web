@@ -20,21 +20,15 @@
     <title>Home</title>
 </head>
 <body>
-    <?php
-        include "templates/header.php";
-    ?>
+    <?php include "templates/header.php" ?>
 
     <div class="content centered">
         <h1 class="content-title">Welcome :)</h1>
 
         <p>I'm Gann4Life, and i love making art, music and programming.</p>
         <p>I am currently setting up properly this website. Go and check it out!<p>
-
-
     </div>
 
-    <?php 
-        include "templates/footer.php";
-    ?>
+    <?php include "templates/footer.php" ?>
 </body>
 </html>
