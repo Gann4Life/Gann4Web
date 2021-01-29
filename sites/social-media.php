@@ -12,33 +12,45 @@
     <div class="content centered">
         
         <h1 class="content-title">Social Media</h1>
-
         <div class="centered" style="margin: 0px 25%;">
+            <hr>
             <div class="inline">
                 <h2>Videogames:</h2>
                 <a href="https://gann4life.gamejolt.io" class="nav-button">GameJolt</a>
                 <a href="https://gann4life.itch.io" class="nav-button">Itch.io</a>
             </div>
+            <hr>
+            <div class="inline">
+                <h2>Software:</h2>
+                <a href="https://github.com/gann4" class="nav-button">GitHub</a>
+            </div>
+            <hr>
             <div class="inline">
                 <h2>2D & 3D Art:</h2>
                 <a href="https://deviantart.com/gann4life" class="nav-button">DeviantArt</a>
             </div>
+            <hr>
             <div class="inline">
                 <h2>Music:</h2>
                 <a href="https://soundcloud.com/user-463322103" class="nav-button">SoundCloud</a>
             </div>
+            <hr>
             <div class="inline">
                 <h2>Video content:</h2>
-                <a href="https://youtube.com/gann4life" class="nav-button">Youtube</a>
+                <a href="https://youtube.com/gann4life" class="nav-button">Youtube/Gann4Life</a>
+                <a href="https://youtube.com/zoxtergames" class="nav-button">Youtube/ZoxterGames</a>
             </div>
+            <hr>
             <div class="inline">
                 <h2>Info/news:</h2>
                 <a href="https://twitter.com/gann4life" class="nav-button">Twitter</a>
             </div>
+            <hr>
             <div class="inline">
                 <h2>Discord server:</h2>
                 <a href="https://discord.gg/8USgTyxkKZ" class="nav-button">Join here!</a>
             </div>
+            <hr>
         </div>
         
     </div>

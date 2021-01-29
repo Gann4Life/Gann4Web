@@ -107,6 +107,7 @@ footer p{
 }
 
 @media (max-width: 810px){
+    .inline{ flex-direction: column;}
     .remove{display:none;}
     .header-title{text-align: center;}
     nav{
