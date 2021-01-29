@@ -15,7 +15,7 @@
         <p>I am currently setting up properly this website, putting as much effort as i can with the small knowledge i currently have.<p>
         <br>
         <p>I do different types of art, which includes digital art, animation, motion graph and video editing.</p>
-        <p>And you can check all of that right... <a href="social-media.php" class="nav-button">here!</a></p>
+        <a href="social-media.php" class="nav-button">See content</a>
         <!--
         <div class="art-content">
             <blockquote class="twitter-tweet art-item"><p lang="en" dir="ltr">Experimenting with some stuff... :D<br>Rendered with DAZ Studio and used some PDN filters. :S<a href="https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw">#art</a> <a href="https://twitter.com/hashtag/3dart?src=hash&amp;ref_src=twsrc%5Etfw">#3dart</a> <a href="https://twitter.com/hashtag/3D?src=hash&amp;ref_src=twsrc%5Etfw">#3D</a> <a href="https://twitter.com/hashtag/ArtistOnTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#ArtistOnTwitter</a> <a href="https://twitter.com/hashtag/digitalart?src=hash&amp;ref_src=twsrc%5Etfw">#digitalart</a> <a href="https://twitter.com/hashtag/digitalillustration?src=hash&amp;ref_src=twsrc%5Etfw">#digitalillustration</a> <a href="https://t.co/u1QND36UKf">pic.twitter.com/u1QND36UKf</a></p>&mdash; Gann4Life (@Gann4Life) <a href="https://twitter.com/Gann4Life/status/1347384516588036097?ref_src=twsrc%5Etfw">January 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

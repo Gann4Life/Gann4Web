@@ -15,7 +15,7 @@
         <p>Looking for games...? Art...? Music...?</p>
         <p>You're in the right place!</p>
         <br>
-        <p>I'm inviting you to know about me<a href="about.php" class="nav-button">here!</a> :)</p>
+        <a href="about.php" class="nav-button">Know about me!</a>
     </div>
 
     <?php include "templates/footer.php" ?>

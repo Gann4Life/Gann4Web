@@ -10,8 +10,11 @@
 <body>
     <?php include "templates/header.php"?> 
     <div class="content centered">
-        
         <h1 class="content-title">Social Media</h1>
+        <p>In this section you will be able to see all the places i currently am!</p>
+        <p>From here, you're going to see the type of person i am, as well as knowing what i make or share on internet. :)</p>
+        <p>This is the unified place where i distribute all of my accounts, just to keep in mind!</p>
+        <br>
         <div class="centered" style="margin: 0px 25%;">
             <hr>
             <div class="inline">
