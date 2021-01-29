@@ -12,7 +12,6 @@
     ?>
     <?php 
         $title="Contact"; 
-        $description="Want to talk to me?..."; 
         include "templates/wip.php";
     ?>
     <?php 

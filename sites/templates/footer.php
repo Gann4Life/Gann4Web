@@ -1,3 +1,4 @@
 <footer>
-    <p>An amazing footer, hi there!</p>
+    <a href="donate.php" class="nav-button">Donate</a>
+    <p>Created by Gann4Life</p>
 </footer>

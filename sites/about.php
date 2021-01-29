@@ -10,19 +10,12 @@
     <?php include "templates/header.php" ?>
 
     <div class="content centered">
-        <h1 class="content-title">Art</h1>
-        <h2>What do i do?</h2>
-        <p>I do different types of art, which includes digital art, animation, motion graph and video editing.</p>
+        <h1 class="content-title">About</h1>
+        <p>I'm Gann4Life, and i love making art, music and programming.</p>
+        <p>I am currently setting up properly this website, putting as much effort as i can with the small knowledge i currently have.<p>
         <br>
-        <p>I'll leave the places where you can see all of my content. :)</p>
-
-        <div class="art-content centered">
-            <h2 style="padding-right: 25px">See:</h2>
-            <a href="https://deviantart.com/gann4life" class="nav-button">DeviantArt</a>
-            <a href="https://twitter.com/gann4life" class="nav-button">Twitter</a>
-            <a href="https://youtube.com/gann4life" class="nav-button">Youtube</a>
-            <a href="https://discord.gg/8USgTyxkKZ" class="nav-button">Join my discord server!</a>
-        </div>
+        <p>I do different types of art, which includes digital art, animation, motion graph and video editing.</p>
+        <p>And you can check all of that right... <a href="social-media.php" class="nav-button">here!</a></p>
         <!--
         <div class="art-content">
             <blockquote class="twitter-tweet art-item"><p lang="en" dir="ltr">Experimenting with some stuff... :D<br>Rendered with DAZ Studio and used some PDN filters. :S<a href="https://twitter.com/hashtag/art?src=hash&amp;ref_src=twsrc%5Etfw">#art</a> <a href="https://twitter.com/hashtag/3dart?src=hash&amp;ref_src=twsrc%5Etfw">#3dart</a> <a href="https://twitter.com/hashtag/3D?src=hash&amp;ref_src=twsrc%5Etfw">#3D</a> <a href="https://twitter.com/hashtag/ArtistOnTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#ArtistOnTwitter</a> <a href="https://twitter.com/hashtag/digitalart?src=hash&amp;ref_src=twsrc%5Etfw">#digitalart</a> <a href="https://twitter.com/hashtag/digitalillustration?src=hash&amp;ref_src=twsrc%5Etfw">#digitalillustration</a> <a href="https://t.co/u1QND36UKf">pic.twitter.com/u1QND36UKf</a></p>&mdash; Gann4Life (@Gann4Life) <a href="https://twitter.com/Gann4Life/status/1347384516588036097?ref_src=twsrc%5Etfw">January 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

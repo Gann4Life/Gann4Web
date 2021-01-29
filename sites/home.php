@@ -11,10 +11,11 @@
     <?php include "templates/header.php" ?>
 
     <div class="content centered">
-        <h1 class="content-title">Welcome :)</h1>
-
-        <p>I'm Gann4Life, and i love making art, music and programming.</p>
-        <p>I am currently setting up properly this website. Go and check it out!<p>
+        <h1 class="content-title">Welcome! :)</h1>
+        <p>Looking for games...? Art...? Music...?</p>
+        <p>You're in the right place!</p>
+        <br>
+        <p>I'm inviting you to know about me<a href="about.php" class="nav-button">here!</a> :)</p>
     </div>
 
     <?php include "templates/footer.php" ?>

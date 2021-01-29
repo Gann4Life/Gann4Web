@@ -10,11 +10,7 @@
     <?php include "templates/header.php" ?>
     <div class="content centered">
         <h1 class="content-title">Projects</h1>
-        <ul>
-            <li>
-                <a href="thirdym.php" class="nav-button">Thirdym</a>
-            </li>
-        </ul>
+        <a href="thirdym.php" class="nav-button">Thirdym</a>
     </div>
     <?php include "templates/footer.php" ?>
 </body>
