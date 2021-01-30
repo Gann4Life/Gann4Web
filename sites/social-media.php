@@ -18,9 +18,11 @@
         <div class="centered" style="margin: 0px 25%;">
             <hr>
             <div class="inline">
-                <h2>Videogames:</h2>
-                <a href="https://gann4life.gamejolt.io" class="nav-button">GameJolt</a>
-                <a href="https://gann4life.itch.io" class="nav-button">Itch.io</a>
+                <h2>Game dev:</h2>
+                <section>
+                    <a href="https://gann4life.gamejolt.io" class="nav-button">GameJolt</a>
+                    <a href="https://gann4life.itch.io" class="nav-button">Itch.io</a>
+                </section>
             </div>
             <hr>
             <div class="inline">
@@ -39,9 +41,11 @@
             </div>
             <hr>
             <div class="inline">
-                <h2>Video content:</h2>
-                <a href="https://youtube.com/gann4life" class="nav-button">Youtube/Gann4Life</a>
-                <a href="https://youtube.com/zoxtergames" class="nav-button">Youtube/ZoxterGames</a>
+                <h2>YouTube:</h2>
+                <section>
+                    <a href="https://youtube.com/gann4life" class="nav-button">Gann4Life</a>
+                    <a href="https://youtube.com/zoxtergames" class="nav-button">ZoxterGames</a>
+                </section>
             </div>
             <hr>
             <div class="inline">
@@ -52,6 +56,14 @@
             <div class="inline">
                 <h2>Discord server:</h2>
                 <a href="https://discord.gg/8USgTyxkKZ" class="nav-button">Join here!</a>
+            </div>
+            <hr>
+            <div class="inline">
+                <h2>Gaming:</h2>
+                <section>
+                    <a href="https://psnprofiles.com/Gann4Life" class="nav-button">PSN</a>
+                    <a href="https://steamcommunity.com/id/Gann4Life/" class="nav-button">Steam</a>
+                </section>
             </div>
             <hr>
         </div>
