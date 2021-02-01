@@ -55,7 +55,7 @@ body{
     animation: fadeIn 1s;
 }
 .content-title{
-    font-size: 15vh;
+    font-size: 15vw;
 }
 .art-content {
     display: flex;
