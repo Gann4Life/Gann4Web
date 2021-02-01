@@ -1,0 +1,14 @@
+form{
+    transition: width 1s;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0px auto;
+}
+
+@media (max-width: 810px){
+    form{
+        transition: width 1s;
+        width: 100%;
+    }
+}
