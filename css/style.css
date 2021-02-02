@@ -7,6 +7,7 @@ body{
     margin: 0px;
     padding: 0px;
 }
+#thirdym-site{color: white;}
 
 header{
     position:fixed;
@@ -62,7 +63,7 @@ body{
     flex-wrap: wrap;
 }
 .art-item{
-    height: 1%;
+    
 }
 
 footer{
