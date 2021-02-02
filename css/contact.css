@@ -1,14 +1,27 @@
 form{
-    transition: width 1s;
+    transition: width 0.1s;
     display: flex;
     flex-direction: column;
     width: 50%;
     margin: 0px auto;
 }
+input[type="email"]{
+    margin: 10px 0px;
+}
+#message{
+    height: 150px;
+    margin: 10px 0px;
+}
+input[type="submit"]
+{
+    height: 30px;
+    width: 80px;
+    margin-left: auto;
+    margin-top: 10px;
+}
 
 @media (max-width: 810px){
     form{
-        transition: width 1s;
         width: 100%;
     }
 }
