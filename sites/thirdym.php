@@ -26,12 +26,11 @@
     <?php include "templates/header.php" ?>
     <div class="content centered" id="thirdym-site">
         <h1 class="content-title">Thirdym</h1>
-        <h2>Images not available yet.</h2>
         <div class="art-content">
-            <img src="../img/projects/thirdym/proxy-day" alt="" class="art-item">
-            <img src="../img/projects/thirdym/proxy-fighting" alt="" class="art-item">
-            <img src="../img/projects/thirdym/proxy-night" alt="" class="art-item">
-            <img src="../img/projects/thirdym/proxy-shoot" alt="" class="art-item">
+            <img src="../img/projects/thirdym/proxy_day.png" alt="" class="art-item">
+            <img src="../img/projects/thirdym/proxy_fighting.png" alt="" class="art-item">
+            <img src="../img/projects/thirdym/proxy_night.png" alt="" class="art-item">
+            <img src="../img/projects/thirdym/proxy_shoot.png" alt="" class="art-item">
         </div>
         <hr>
         <!-- Description -->
