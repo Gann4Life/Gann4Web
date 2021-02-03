@@ -11,7 +11,7 @@
     <div class="content centered">
         <h1 class="content-title">Projects</h1>
         <p>In this section i'll be sharing projects in which i've been working / i am working on.</p>
-        <p>You can contribute to some of them on my <a href="https://github.com/gann4">github page</a>.</p>
+        <p>You can contribute to some of them on my <a href="https://github.com/gann4" class="text-url">github page</a>.</p>
         <a href="thirdym.php" class="nav-button">Thirdym</a>
         <a href="https://github.com/Gann4/Gann4Web" class="nav-button">Gann4Web</a>
         <a href="https://github.com/Gann4/Store-Manager" class="nav-button">LDP Store Manager</a>

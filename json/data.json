@@ -1,7 +1,7 @@
 {
     "games":{
         "thirdym":{
-            "version": "undefined"
+            "version": "0.0.2-alpha"
         },
         "sample-game":{
             "version":null

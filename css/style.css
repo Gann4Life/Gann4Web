@@ -73,6 +73,23 @@ body{
     box-shadow: 0px 10px 10px black;
     max-width: 30%;
 }
+.text-url{
+    text-decoration: none;
+    transition: color .1s;
+    transition: background-color .1s;
+    transition: border-radius .1s;
+    transition: padding .1s;
+    color:black;
+    background-color: pink;
+    border-radius: 2px;
+    padding: 2px;
+}
+.text-url:hover{
+    color: pink;
+    background: black;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
 
 footer{
     display: flex;
@@ -104,6 +121,10 @@ footer p{
     padding: 2% 4%;
 }
 
+#changelog{
+    text-align: left;
+    margin: 0px 5%;
+}
 #maintenance-center{
     justify-content: center;
     text-align: left;
