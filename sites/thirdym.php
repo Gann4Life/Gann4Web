@@ -50,7 +50,6 @@
         <h2>Get early access</h2>
         <p><b>Big warning</b>: As the project is unfinished and is barely 5% done (total), you are going to test the mechanics only, there is no campaign/story content yet, expect bugs and mistakes, that's the point of early access: report errors, glitches and mistakes to help the game to improve!</p>
         <p>You can get <i>early access</i> by joining to my discord server and requesting a key to the game developer! <a class="text-url" href="social-media.php">Find server here</a></p>
-        <iframe src="https://widgets.gamejolt.com/package/v1?key=n679RrTr" frameborder="0" width="500" height="245"></iframe>
         <hr>
         <div id="changelog">
             <h2>Development activity for Thirdym v0.1.0-alpha</h2>
