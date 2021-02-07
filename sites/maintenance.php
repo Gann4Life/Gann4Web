@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <?php include "templates/general-imports.php" ?>
-
+    <!-- Google AdSense -->
+    <script data-ad-client="ca-pub-4175300599697428" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <title>Maintenance</title>
 </head>
 <body>

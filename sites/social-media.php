@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php $cssfolder="../css"; include "templates/general-imports.php" ?>
-
+    <!-- Google AdSense -->
+    <script data-ad-client="ca-pub-4175300599697428" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <title>Social Media</title>
 </head>
 <body>
@@ -14,6 +15,7 @@
         <p>In this section you will be able to see all the places i currently am!</p>
         <p>From here, you're going to see the type of person i am, as well as knowing what i make or share on internet. :)</p>
         <p>This is the unified place where i distribute all of my accounts, just to keep in mind!</p>
+        <p>You can find art, videogames, music, gaming social media and videos that i upload to YouTube.</p>
         <br>
         <div class="centered" style="margin: 0px 25%;">
             <hr>

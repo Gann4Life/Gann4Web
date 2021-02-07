@@ -5,12 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projects</title>
     <?php include "templates/general-imports.php" ?>
+    <!-- Google AdSense -->
+    <script data-ad-client="ca-pub-4175300599697428" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body>
     <?php include "templates/header.php" ?>
     <div class="content centered">
         <h1 class="content-title">Projects</h1>
-        <p>In this section i'll be sharing projects in which i've been working / i am working on.</p>
+        <p>In this section i'll be sharing projects in which i've been working / i am currently working on.</p>
+        <p>The project list includes content made with Unity, C#, python, PHP and JavaScript.</p>
+        <p>Generally, i create videogames using Unity engine and C#, maybe one day i'll be using Unreal Engine or Godot engine, as well as Cryengine which seems interesting.</p>
+        <p>On the other side, to create software, applications or automated commands, i use C#, python, PowerShell and Batch, in which i don't have much public projects.</p>
+        <p>Currently i'm learning as much as i can about HTML, CSS, JavaScript and PHP.</p>
         <p>You can contribute to some of them on my <a href="https://github.com/gann4" class="text-url">github page</a>.</p>
         <a href="thirdym.php" class="nav-button">Thirdym</a>
         <a href="https://github.com/Gann4/Gann4Web" class="nav-button">Gann4Web</a>
