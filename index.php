@@ -16,8 +16,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Google AdSense -->
-    <script data-ad-client="ca-pub-4175300599697428" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <title>Redirecting...</title>
 </head>
 <body>
