@@ -51,14 +51,26 @@
         <p>You can get <i>early access</i> by joining to my discord server and requesting a key to the game developer! <a class="text-url" href="social-media.php">Find server here</a></p>
         <hr>
         <div id="changelog">
-            <h2>Development activity for Thirdym v0.1.0-alpha</h2>
             <?php 
-                echo "<p>Public (early access) game version: ";
+                echo "<p>Current available game version: ";
                 $json_file = file_get_contents("../json/data.json");
                 $jsondata = json_decode($json_file, true);
                 echo $jsondata["games"]["thirdym"]["version"];
                 echo "</p>";
             ?>
+            <h2>Development activity for Thirdym v0.0.3-alpha</h2>
+            <h3>Added</h3>
+            <ul>
+                <li><p>GameJolt API.</p></li>
+                <li><p>Screen for update checking.</p></li>
+                <li><p>Acid & water behaviours.</p></li>
+                <li><p>Acid & water shaders.</p></li>
+                <li><p>A secret. :)</p></li>
+                <li><p>Pre-alpha Falkok model.</p></li>
+                <li><p>Pre-alpha Phoenix Falkok model.</p></li>
+                <li><p>JSON Reading & writing. Useful for future updates where game will save important data locally such as level unlocks, weapons bought, choosen armor suit and more.</p></li>
+                <li><p>Camera shoulder switch; Use 'Q' key to switch shoulder view.</p></li>
+            </ul>
             <h3>Updated</h3>
             <ul>
                 <li><p>Game engine to Unity 2020.1.15f1.</p></li>
@@ -67,22 +79,29 @@
                 <li><p>Hound Walker cameras.</p></li>
                 <li><p>Hound walker animations.</p></li>
                 <li><p>Pain SFX do not always play a sound.</p></li>
-                <li><p>WIP: Sandbox map.</p></li>
-            </ul>
-            <h3>Added</h3>
-            <ul>
-                <li><p>GameJolt API.</p></li>
-                <li><p>Screen for update checking.</p></li>
-                <li><p>Acid & water behaviours.</p></li>
-                <li><p>Acid & water shaders.</p></li>
-                <li><p>A secret. :)</p></li>
-                <li><p>WIP: Level 1.</p></li>
+                <li><p>Character selection; changing armour shouldn't cause issues, and will be easier to implement a character selector on a future update.</p></li>
+                <li><p>Artificial Inteligence; AI Will only heal when there are no enemies visible.</p></li>
+                <li><p>Third person behaviour; camera is less closer to the player.</p></li>
             </ul>
             <h3>Fixed</h3>
             <ul>
                 <li><p>Exaggerated boost jump (sort of).</p></li>
                 <li><p>Some movable objects were not playing sounds properly.</p></li>
                 <li><p>Some switch buttons were not playing sounds properly.</p></li>
+                <li><p>Artificial Inteligence should be a bit more stable now. (They will not walk around in a nonsense way)</p></li>
+                <li><p>Nerfed weapon recoil.</p></li>
+                <li><p>Stabilized damage multipliers per bodypart.</p></li>
+            </ul>
+            <h3>Removed</h3>
+            <ul>
+                <li><p>Facial expressions.</p></li>
+                <li><p>Base character model (female).</p></li>
+                <li><p>First person.</p></li>
+            </ul>
+            <h3>Work in progress</h3>
+            <ul>
+                <li><p>Sandbox map.</p></li>
+                <li><p>Level one.</p></li>
             </ul>
         </div>
     </div>
