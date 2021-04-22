@@ -100,8 +100,10 @@
             </ul>
             <h3>Work in progress</h3>
             <ul>
+                <li><p>Character selection.</p></li>
+                <li><p>Main menu.</p></li>
                 <li><p>Sandbox map.</p></li>
-                <li><p>Level one.</p></li>
+                <li><p>Training maps.</p></li>
             </ul>
         </div>
     </div>
