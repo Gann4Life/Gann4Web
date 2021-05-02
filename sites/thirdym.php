@@ -61,11 +61,21 @@
             <h2>Development activity for Thirdym v0.X.X-alpha</h2>
             <h3>Added</h3>
             <ul>
-                <li><p>-</p></li>
+                <li><p>Antigravitator AG-51.</p></li>
+                <li><p>Noir Lime model.</p></li>
+                <li><p>Character selection scene.</p></li>
             </ul>
             <h3>Updated</h3>
             <ul>
-                <li><p>-</p></li>
+                <li><p>LootCrates model.</p></li>
+                <li><p>Sandbox scene.</p></li>
+                <li><p>Blood particles system.</p></li>
+                <li><p>Character reaction to gunshots.</p></li>
+                <li><p>Load & save system; a json file can be used to view saved data, or modify them. (Modifying them may lead to unexpected errors)</p></li>
+                <li><p>Heavy Railgun sound effect.</p></li>
+                <li><p>Main Menu; Post processing effects can be disabled.</p></li>
+                <li><p>Main Menu; You can load character selection scene trough 'play' section.</p></li>
+                <li><p>New unique GUI sound effects.</p></li>
             </ul>
             <h3>Fixed</h3>
             <ul>
@@ -73,11 +83,12 @@
             </ul>
             <h3>Removed</h3>
             <ul>
-                <li><p>-</p></li>
+                <li><p>Soon: character low poly base mesh</p></li>
             </ul>
             <h3>Work in progress</h3>
             <ul>
                 <li><p>Character selection.</p></li>
+                <li><p>Graphics settings</p></li>
                 <li><p>Main menu.</p></li>
                 <li><p>Sandbox map.</p></li>
                 <li><p>Training maps.</p></li>
