@@ -64,6 +64,7 @@
                 <li><p>Antigravitator AG-51.</p></li>
                 <li><p>Noir Lime model.</p></li>
                 <li><p>Character selection scene.</p></li>
+                <li><p>Audio configuration section.</p></li>
             </ul>
             <h3>Updated</h3>
             <ul>
@@ -75,15 +76,17 @@
                 <li><p>Heavy Railgun sound effect.</p></li>
                 <li><p>Main Menu; Post processing effects can be disabled.</p></li>
                 <li><p>Main Menu; You can load character selection scene trough 'play' section.</p></li>
+                <li><p>Main Menu; Audio configuration.</p></li>
                 <li><p>New unique GUI sound effects.</p></li>
+                <li><p>Player input; Input can't be recieved while ingame menu is active.</p></li>
             </ul>
             <h3>Fixed</h3>
             <ul>
-                <li><p>-</p></li>
+                <li><p>Overloading slow motion</p></li>
             </ul>
             <h3>Removed</h3>
             <ul>
-                <li><p>Soon: character low poly base mesh</p></li>
+                <li><p>Low poly base mesh</p></li>
             </ul>
             <h3>Work in progress</h3>
             <ul>
