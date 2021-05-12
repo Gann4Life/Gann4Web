@@ -18,6 +18,11 @@
         <div class="centered" style="margin: 0px 25%;">
             <hr>
             <div class="inline">
+                <h2>Discord server:</h2>
+                <a href="https://link-to.net/172700/gann4art" class="nav-button">Join here!</a>
+            </div>
+            <hr>
+            <div class="inline">
                 <h2>Game dev:</h2>
                 <section>
                     <a href="https://gann4life.gamejolt.io" class="nav-button">GameJolt</a>
@@ -49,17 +54,12 @@
             </div>
             <hr>
             <div class="inline">
-                <h2>Info/news:</h2>
+                <h2>General content:</h2>
                 <a href="https://twitter.com/gann4life" class="nav-button">Twitter</a>
             </div>
             <hr>
             <div class="inline">
-                <h2>Discord server:</h2>
-                <a href="https://discord.gg/8USgTyxkKZ" class="nav-button">Join here!</a>
-            </div>
-            <hr>
-            <div class="inline">
-                <h2>Gaming:</h2>
+                <h2>Gaming profiles:</h2>
                 <section>
                     <a href="https://psnprofiles.com/Gann4Life" class="nav-button">PSN</a>
                     <a href="https://steamcommunity.com/id/Gann4Life/" class="nav-button">Steam</a>

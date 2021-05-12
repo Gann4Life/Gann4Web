@@ -58,13 +58,16 @@
                 echo $jsondata["games"]["thirdym"]["version"];
                 echo "</p>";
             ?>
-            <h2>Development activity for Thirdym v0.X.X-alpha</h2>
+            <h2>Development activity for the next Thirdym version</h2>
             <h3>Added</h3>
             <ul>
                 <li><p>Antigravitator AG-51.</p></li>
                 <li><p>Noir Lime model.</p></li>
                 <li><p>Character selection scene.</p></li>
                 <li><p>Audio configuration section.</p></li>
+                <li><p>Basic training map.</p></li>
+                <li><p>Underwater camera effects.</p></li>
+                <li><p>Underwater audio filter.</p></li>
             </ul>
             <h3>Updated</h3>
             <ul>
@@ -79,14 +82,18 @@
                 <li><p>Main Menu; Audio configuration.</p></li>
                 <li><p>New unique GUI sound effects.</p></li>
                 <li><p>Player input; Input can't be recieved while ingame menu is active.</p></li>
+                <li><p>Swimming behaviour, it should be more stable now.</p></li>
             </ul>
             <h3>Fixed</h3>
             <ul>
                 <li><p>Overloading slow motion</p></li>
+                <li><p>HUD; Guns now display properly.</p></li>
             </ul>
             <h3>Removed</h3>
             <ul>
-                <li><p>Low poly base mesh</p></li>
+                <li><p>Low poly base mesh.</p></li>
+                <li><p>Overhead health particle indicator.</p></li>
+                <li><p>Loading screen doesn't require a key to press anymore.</p></li>
             </ul>
             <h3>Work in progress</h3>
             <ul>
