@@ -40,14 +40,13 @@
         <hr>
         <!-- Description -->
         <h1>Highly inspired on Plazma Burst series, by Eric Gurt.</h1>
-        <p>The project development is stopped by now. But it will continue after some time, as a single game dev i need a lot of time to maintain myself and everything i create.</p>
         <p>You can follow this game <a class="text-url" href="https://gamejolt.com/games/thirdym/261475">here</a> to recieve notifications when a new devlog is available or any other news for you :)</p>
         <h2>What is Thirdym?</h2>
         <p>Thirdym is a third person shooter that uses active ragdolls, which leads to content that's less serious than what it is supposed to be, but has more interaction with the enviroment.</p>
         <p>It tries to transform the 2D visuals from Plazma Burst series into a new 3D world and to be as interactable as possible for you to experiment and play in any way you want.</p>
         <hr>
         <h2>Get early access</h2>
-        <p><b>Big warning</b>: As the project is unfinished and is barely 5% done (total), you are going to test the mechanics only, there is no campaign/story content yet, expect bugs and mistakes, that's the point of early access: report errors, glitches and mistakes to help the game to improve!</p>
+        <p>As the project is unfinished and is barely 5% done (total), you are going to test the mechanics only, there is no campaign/story content yet, expect bugs and mistakes, that's the point of early access: report errors, glitches and mistakes to help the game to improve!</p>
         <p>You can get <i>early access</i> by joining to my discord server and requesting a key to the game developer! <a class="text-url" href="social-media.php">Find server here</a></p>
         <hr>
         <div id="changelog">
@@ -58,7 +57,7 @@
                 echo $jsondata["games"]["thirdym"]["version"];
                 echo "</p>";
             ?>
-            <h2>Development activity for the next Thirdym version</h2>
+            <h2>Development activity for the next version</h2>
             <h3>Added</h3>
             <ul>
                 <li><p>Antigravitator AG-51.</p></li>
