@@ -67,6 +67,7 @@
                 <li><p>Basic training map.</p></li>
                 <li><p>Underwater camera effects.</p></li>
                 <li><p>Underwater audio filter.</p></li>
+                <li><p>Zipline mechanic.</p></li>
             </ul>
             <h3>Updated</h3>
             <ul>
