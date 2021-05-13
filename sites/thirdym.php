@@ -67,6 +67,7 @@
                 <li><p>Main Menu; Audio configuration.</p></li>
                 <li><p>Underwater camera effects.</p></li>
                 <li><p>Underwater audio filter.</p></li>
+                <li><p>Hint system.</p></li>
             </ul>
             <h3>Updated</h3>
             <ul>
