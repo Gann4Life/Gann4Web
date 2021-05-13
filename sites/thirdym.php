@@ -60,14 +60,13 @@
             <h2>Development activity for the next version</h2>
             <h3>Added</h3>
             <ul>
+                <li><p>New map: Training basics.</p></li>
+                <li><p>Character selection scene.</p></li>
                 <li><p>Antigravitator AG-51.</p></li>
                 <li><p>Noir Lime model.</p></li>
-                <li><p>Character selection scene.</p></li>
-                <li><p>Audio configuration section.</p></li>
-                <li><p>Basic training map.</p></li>
+                <li><p>Main Menu; Audio configuration.</p></li>
                 <li><p>Underwater camera effects.</p></li>
                 <li><p>Underwater audio filter.</p></li>
-                <li><p>Zipline mechanic.</p></li>
             </ul>
             <h3>Updated</h3>
             <ul>
@@ -79,14 +78,15 @@
                 <li><p>Heavy Railgun sound effect.</p></li>
                 <li><p>Main Menu; Post processing effects can be disabled.</p></li>
                 <li><p>Main Menu; You can load character selection scene trough 'play' section.</p></li>
-                <li><p>Main Menu; Audio configuration.</p></li>
                 <li><p>New unique GUI sound effects.</p></li>
                 <li><p>Player input; Input can't be recieved while ingame menu is active.</p></li>
                 <li><p>Swimming behaviour, it should be more stable now.</p></li>
+                <li><p>You can now control your arms position when grabbing stuff.</p></li>
             </ul>
             <h3>Fixed</h3>
             <ul>
-                <li><p>Overloading slow motion</p></li>
+                <li><p>Left arm position when holding swords and aiming at the same time.</p></li>
+                <li><p>Overloading slow motion (AKA Skill bar) bar.</p></li>
                 <li><p>HUD; Guns now display properly.</p></li>
             </ul>
             <h3>Removed</h3>
@@ -102,6 +102,8 @@
                 <li><p>Main menu.</p></li>
                 <li><p>Sandbox map.</p></li>
                 <li><p>Training maps.</p></li>
+                <li><p>Zipline mechanic.</p></li>
+                <li><p>Controller support.</p></li>
             </ul>
         </div>
     </div>
