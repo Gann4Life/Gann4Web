@@ -15,7 +15,7 @@
         <ul>
             <li><p><b><a href="https://twitter.com/gann4life">Twitter</a></b></p></li>
         </ul>
-        <img id="maintenance-guy" src="..\img\maintenance.png" alt="" style="height: 50vh; padding: 50px; float: right;">
+        <img id="maintenance-guy" src="img\maintenance.png" alt="" style="height: 50vh; padding: 50px; float: right;">
     </div>
 </body>
 </html>
