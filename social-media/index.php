@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php $cssfolder="../css"; include "templates/general-imports.php" ?>
+    <?php include "../templates/general-imports.php" ?>
     <title>Social Media</title>
 </head>
 <body>
-    <?php include "templates/header.php"?> 
+    <?php include "../templates/header.php"?> 
     <div class="content centered">
         <h1 class="content-title">Social Media</h1>
         <p>In this section you will be able to see all the places i currently am!</p>
@@ -69,6 +69,6 @@
         </div>
         
     </div>
-    <?php include "templates/footer.php"?> 
+    <?php include "../templates/footer.php"?> 
 </body>
 </html>

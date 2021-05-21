@@ -29,11 +29,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Email</title>
-    <?php include "templates/general-imports.php" ?>
+    <title>Email sent</title>
+    <?php include "../templates/general-imports.php" ?>
 </head>
 <body>
-    <?php include "templates/header.php" ?>
+    <?php include "../templates/header.php" ?>
     <div class="content centered">
         <h1 class="content-title">E-mail info</h1>
         <?php
@@ -43,6 +43,6 @@
             echo "<a href=\"".$mailto_data."\" class=\"nav-button\">Confirm</a>";
         ?>
     </div>
-    <?php include "templates/footer.php" ?>
+    <?php include "../templates/footer.php" ?>
 </body>
 </html>

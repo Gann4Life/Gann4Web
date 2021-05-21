@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include "templates/general-imports.php" ?>
-    <title>Art</title>
+    <?php include "../templates/general-imports.php" ?>
+    <title>About</title>
 </head>
 <body>
-    <?php include "templates/header.php" ?>
+    <?php include "../templates/header.php" ?>
 
     <div class="content centered">
         <h1 class="content-title">About</h1>
@@ -15,7 +15,7 @@
         <p>I am currently setting up properly this website, putting as much effort as i can with the small knowledge i currently have.<p>
         <br>
         <p>I do different types of art, which includes digital art, animation, motion graph and video editing.</p>
-        <a href="social-media.php" class="nav-button">See content</a>
+        <a href="../social-media" class="nav-button">See content</a>
         <hr>
         <div style="line-height: 2">
             <h2>How i learnt to code</h2>
@@ -40,6 +40,6 @@
     </div>
 
     <!-- This file is supposed to use the 'digitalart' folder, for loading pictures, descriptions, or whatever -->
-    <?php include "templates/footer.php" ?>
+    <?php include "../templates/footer.php" ?>
 </body>
 </html>

@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contribute</title>
-    <?php include "templates/general-imports.php" ?>
+    <?php include "../templates/general-imports.php" ?>
 </head>
 <body>
-    <?php include "templates/header.php" ?>
+    <?php include "../templates/header.php" ?>
     <div class="content centered">
         <h1 class="content-title">Contribute</h1>
         <p>If you want to contribute to my projects, you have different options to do that.</p>
@@ -18,6 +18,6 @@
         <a href="https://www.paypal.com/donate?hosted_button_id=S59T3R6LTCEB4" class="nav-button">Support with PayPal</a>
         <a href="https://www.deviantart.com/gann4life/shop" class="nav-button">Support with Art</a>
     </div>
-    <?php include "templates/footer.php" ?>
+    <?php include "../templates/footer.php" ?>
 </body>
 </html>
