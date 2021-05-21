@@ -2,10 +2,7 @@
     "games":{
         "thirdym":{
             "version": "0.0.4-alpha",
-            "download": null
-        },
-        "sample-game":{
-            "version":null
+            "download": "https://www.mediafire.com/file/vk3ubbajeidpjyf/Thirdym+v0.0.4-alpha.rar/file"
         }
     },
     "apps":{
