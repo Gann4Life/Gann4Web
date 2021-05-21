@@ -1,7 +1,8 @@
 {
     "games":{
         "thirdym":{
-            "version": "0.0.4-alpha"
+            "version": "0.0.4-alpha",
+            "download": null
         },
         "sample-game":{
             "version":null
@@ -12,8 +13,9 @@
             "version":"undefined",
             "download_link":""
         },
-        "sample-app":{
-            "version":null
+        "thirdym_launcher":{
+            "version": "dev_0.0.15b",
+            "download": null
         }
     },
     "websites":{
