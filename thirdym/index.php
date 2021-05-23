@@ -60,51 +60,58 @@
             <h2>Development activity for the next version</h2>
             <h3>Added</h3>
             <ul>
-                <li><p>New map: Training basics.</p></li>
+                <li><p>Training basics scene.</p></li>
                 <li><p>Character selection scene.</p></li>
-                <li><p>Antigravitator AG-51.</p></li>
-                <li><p>Noir Lime model.</p></li>
-                <li><p>Main Menu; Audio configuration.</p></li>
+                <li><p>Audio configuration screen.</p></li>
+                <li><p>Graphics configuration screen.</p></li>
+                <li><p>Cheats screen.</p></li>
+                <li><p>Crosshair feedback.</p></li>
+                <li><p>Notification system.</p></li>
                 <li><p>Underwater camera effects.</p></li>
                 <li><p>Underwater audio filter.</p></li>
-                <li><p>Hint system.</p></li>
+                <li><p>Controller support.</p></li>
+                <li><p>Prototype explosive barrels.</p></li>
+                <li><p>Prototype zipline mechanic.</p></li>
+                <li><p>Antigravitator AG-51.</p></li>
+                <li><p>Noir Lime model.</p></li>
+                <li><p>NPC Healthbars.</p></li>
+                <li><p>Water & acid particles.</p></li>
+                <li><p>Damage indicators.</p></li>
+                <li><p>Cinemachine cameras system for main menu.</p></li>
             </ul>
             <h3>Updated</h3>
             <ul>
                 <li><p>LootCrates model.</p></li>
-                <li><p>Sandbox scene.</p></li>
-                <li><p>Blood particles system.</p></li>
-                <li><p>Character reaction to gunshots.</p></li>
-                <li><p>Load & save system; a json file can be used to view saved data, or modify them. (Modifying them may lead to unexpected errors)</p></li>
-                <li><p>Heavy Railgun sound effect.</p></li>
-                <li><p>Main Menu; Post processing effects can be disabled.</p></li>
-                <li><p>Main Menu; You can load character selection scene trough 'play' section.</p></li>
-                <li><p>New unique GUI sound effects.</p></li>
-                <li><p>Player input; Input can't be recieved while ingame menu is active.</p></li>
-                <li><p>Swimming behaviour, it should be more stable now.</p></li>
-                <li><p>You can now control your arms position when grabbing stuff.</p></li>
+                <li><p>Blood particles.</p></li>
+                <li><p>Aiming: player should try to aim directly towards the center of the screen.</p></li>
+                <li><p>Player input: Input can't be recieved while ingame menu is active.</p></li>
+                <li><p>NPCs will not react when ingame menu is active.</p></li>
+                <li><p>Load and save system: a json file can be used to view saved data, or modify it. (Modifying it may lead to unexpected errors)</p></li>
+                <li><p>Swimming behaviour.</p></li>
+                <li><p>You can raise your arms when grabbing objects.</p></li>
             </ul>
             <h3>Fixed</h3>
             <ul>
-                <li><p>Left arm position when holding swords and aiming at the same time.</p></li>
+                <li><p>Blades doesn't hurt yourself anymore.</p></li>
+                <li><p>Right arm position when holding swords and aiming at the same time.</p></li>
                 <li><p>Overloading slow motion (AKA Skill bar) bar.</p></li>
-                <li><p>HUD; Guns now display properly.</p></li>
+                <li><p>Guns now display properly in the HUD.</p></li>
             </ul>
             <h3>Removed</h3>
             <ul>
                 <li><p>Low poly base mesh.</p></li>
                 <li><p>Overhead health particle indicator.</p></li>
-                <li><p>Loading screen doesn't require a key to press anymore.</p></li>
+                <li><p>Character lost of balance on gunshots and hard collisions.</p></li>
+                <li><p>PlayerPrefs save and load system. Replaced with json.</p></li>
             </ul>
             <h3>Work in progress</h3>
             <ul>
-                <li><p>Character selection.</p></li>
-                <li><p>Graphics settings</p></li>
-                <li><p>Main menu.</p></li>
+                <li><p>In-depth graphics configuration.</p></li>
                 <li><p>Sandbox map.</p></li>
                 <li><p>Training maps.</p></li>
-                <li><p>Zipline mechanic.</p></li>
-                <li><p>Controller support.</p></li>
+                <li><p>Teleporters.</p></li>
+                <li><p>Cinemachine as third person cameras.</p></li>
+                <li><p>Proxy model.</p></li>
             </ul>
         </div>
     </div>
