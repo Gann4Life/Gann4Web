@@ -9,13 +9,9 @@
 </head>
 <body>
     <div id="maintenance-center" class="content">
-        <h1>This website is in maintenance.</h1>
-        <p>The website is currently being updated for a better experience, please, be patient! I'm going to be back soon. :)</p>
-        <p>Quick contact / info:</p>
-        <ul>
-            <li><p><b><a href="https://twitter.com/gann4life">Twitter</a></b></p></li>
-        </ul>
-        <img id="maintenance-guy" src="img\maintenance.png" alt="" style="height: 50vh; padding: 50px; float: right;">
+        <h1>Gann is working, unbelievable, right?</h1>
+        <p>The website is currently being updated for a better experience, please, be patient! Come back later. :)</p>
+        <img id="maintenance-guy" src="http://gann4life.ga/maintenance/img/maintenance.png" alt="" style="height: 50vh; padding: 50px; float: right;">
     </div>
 </body>
 </html>
