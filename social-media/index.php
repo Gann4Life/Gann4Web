@@ -19,7 +19,7 @@
             <hr>
             <div class="inline">
                 <h2>Discord server:</h2>
-                <a href="https://link-to.net/172700/gann4art" class="nav-button">Join here!</a>
+                <a href="http://gann4life.ga/discord" class="nav-button">Join here!</a>
             </div>
             <hr>
             <div class="inline">
