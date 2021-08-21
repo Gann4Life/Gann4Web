@@ -3,17 +3,30 @@
     to{opacity:1; transform: translateY(0px);}
 }
 
+:root {
+    --background-color: white;
+    --text-color: black;
+
+    --button-hover-color: pink;
+    --button-hover-border-color: magenta;
+    --button-hover-text-color: black;
+}
+
 body{
+    background-color: var(--background-color);
+    color: var(--text-color);
     margin: 0px;
     padding: 0px;
 }
-#thirdym-site{color:white;}
+#thirdym-site{
+    color: var(--background-color);
+}
 
 header{
     position:fixed;
     left: 0px;
     right: 0px;
-    background: white;
+    background: var(--background-color);
     box-shadow: 0px 0px 10px;
     top: 0px;
 }
@@ -22,17 +35,18 @@ nav {
     justify-content: space-around;
     width: 100%;
 }
-/*
+
 .header-title{
+    color: var(--text-color);
 }
-.header-buttons{
-}*/
+/* .header-buttons{
+} */
 #menu-button{
     display: none;
 }
 .nav-button{
-    background-color: white;
-    color: black;
+    background-color: var(--background-color);
+    color: var(--text-color);
     font-weight: bold;
     display: inline-flex;
     padding: 25px;
@@ -41,8 +55,9 @@ nav {
 .nav-button:hover{
     transition: border-bottom 0.1s;
     transition: background-color 0.1s;
-    background-color: pink;
-    border-bottom: magenta solid;
+    background-color: var(--button-hover-color);
+    color: var(--button-hover-text-color);
+    border-bottom: var(--button-hover-border-color) solid;
 }
 .nav-button:active{
     background-color: white;
@@ -94,7 +109,7 @@ body{
 footer{
     display: flex;
     justify-content: space-between;
-    background: white;
+    background: var(--background-color);
     position: fixed;
     left: 0px;
     right: 0px;
@@ -155,5 +170,16 @@ footer p{
         padding: 5px auto;
         display: block;
         text-align: center;
+    }
+}
+
+@media (prefers-color-scheme: dark){
+    :root {
+        --background-color: rgb(31, 31, 31);
+        --text-color: white;
+
+        --button-hover-color: rgb(59, 59, 59);
+        --button-hover-border-color: rgb(161, 161, 161);
+        --button-hover-text-color: rgb(255, 255, 255);
     }
 }
