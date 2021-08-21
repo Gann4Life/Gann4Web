@@ -1,7 +1,7 @@
 <header>
     <nav>
         <h1 class="header-title">
-            Gann4*
+            Gann4Life.ga
         </h1>
         <div id="menu-button" class="nav-button">Menu</div>
         <div class="header-buttons remove">                
