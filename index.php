@@ -16,7 +16,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <meta name="purpleads-verification" content="040cce22b65773ab186ac506"/>
     <title>Redirecting...</title>
 </head>
 <body>
