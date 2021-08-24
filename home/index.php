@@ -11,7 +11,7 @@
 
     <div class="container-fluid">
         <div class="container">
-            <h1 class="text-center">Welcome to Gann4Life.ga!</h1>
+            <h1 class="my-5 text-center">Welcome to Gann4Life.ga!</h1>
             
             <div class="d-flex justify-content-center">
                 <button type="button" class="btn btn-light" href="../about">Know about me!</button>

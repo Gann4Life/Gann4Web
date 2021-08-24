@@ -5,7 +5,7 @@
 <header>
     <nav class="shadow navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
+            <a class="navbar-brand" href="../home">Gann4Life</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -21,6 +21,5 @@
         </div>
     </nav>
 </header>
-<script src="../js/responsive-header.js"></script>
 
 <!-- <script src="https://linkvertise.net/cdn/linkvertise.js"></script><script>linkvertise(172700, {whitelist: [], blacklist: ["gann4life.ga", "youtube.com"]});</script> -->
