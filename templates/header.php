@@ -3,7 +3,7 @@
 <!-- Bootsrap update -->
 
 <header>
-    <nav class="border-bottom navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="shadow navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Navbar</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
