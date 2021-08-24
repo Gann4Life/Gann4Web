@@ -14,5 +14,6 @@
         </div>
     </nav>
 </header>
-<script src="https://linkvertise.net/cdn/linkvertise.js"></script><script>linkvertise(172700, {whitelist: [], blacklist: ["gann4life.ga"]});</script>
 <script src="../js/responsive-header.js"></script>
+
+<script src="https://linkvertise.net/cdn/linkvertise.js"></script><script>linkvertise(172700, {whitelist: [], blacklist: ["gann4life.ga", "youtube.com"]});</script>

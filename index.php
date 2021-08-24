@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="purpleads-verification" content="040cce22b65773ab186ac506"/>
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>Checking for maintenance...</p>
+    <p>If you keep seeing this, something went wrong.</p>
+</body>
+</html>
+
 <?php 
     $json_file = file_get_contents("json/data.json");
     $json_data = json_decode($json_file, true);
@@ -10,16 +24,3 @@
         header("Location: /home");
     }
 ?>    
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirecting...</title>
-</head>
-<body>
-    <p>Checking for maintenance...</p>
-    <p>If you keep seeing this, something went wrong.</p>
-</body>
-</html>
