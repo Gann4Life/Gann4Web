@@ -1,3 +1,4 @@
+<hr class="my-5">
 <footer class="shadow border-top fixed-bottom navbar navbar-dark bg-dark">
     <div class="container">
         <a type="button" class="btn btn-dark nav-item" href="../contribute">Contribute</a>

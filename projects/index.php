@@ -60,7 +60,6 @@
             <!-- Tabs tutorial https://www.youtube.com/watch?v=IMM93WydBSw -->
         </div>
     </div>
-    <hr class="my-5">
     <?php include "../templates/footer.php" ?>
 </body>
 </html>

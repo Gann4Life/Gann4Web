@@ -6,68 +6,65 @@
     <?php include "../templates/general-imports.php" ?>
     <title>Social Media</title>
 </head>
-<body>
+<body class="bg-dark text-white">
+
     <?php include "../templates/header.php"?> 
-    <div class="content centered">
-        <h1 class="content-title">Social Media</h1>
-        <p>In this section you will be able to see all the places i currently am!</p>
-        <p>From here, you're going to see the type of person i am, as well as knowing what i make or share on internet. :)</p>
-        <p>This is the unified place where i distribute all of my accounts, just to keep in mind!</p>
-        <p>You can find art, videogames, music, gaming social media and videos that i upload to YouTube.</p>
-        <br>
-        <div class="centered" style="margin: 0px 25%;">
-            <hr>
-            <div class="inline">
-                <h2>Discord server:</h2>
-                <a href="http://gann4life.ga/discord" class="nav-button">Join here!</a>
+    <div class="container-fluid">
+        <div class="container">
+            <h1 class="my-5 text-center">Social Media</h1>
+                <div class="row">
+                    <div class="col">
+                        <!-- Tabs -->
+                        <nav>
+                            <div class="nav nav-tabs bg-gradient" id="nav-tab" role="tablist">
+                                <button class="nav-link active" id="nav-development-tab" data-bs-toggle="tab"
+                                data-bs-target="#nav-development" type="button" role="tab" aria-controls="nav-development"
+                                aria-selected="true">Development</button>
+                                
+                                <button class="nav-link" id="nav-art-tab" data-bs-toggle="tab"
+                                data-bs-target="#nav-art" type="button" role="tab" aria-controls="nav-art"
+                                aria-selected="false">Art</button>
+
+                                <button class="nav-link" id="nav-media-tab" data-bs-toggle="tab"
+                                data-bs-target="#nav-media" type="button" role="tab" aria-controls="nav-media"
+                                aria-selected="true">Media</button>
+                                
+                                <button class="nav-link" id="nav-gaming-tab" data-bs-toggle="tab"
+                                data-bs-target="#nav-gaming" type="button" role="tab" aria-controls="nav-gaming"
+                                aria-selected="false">Gaming</button>
+                            </div>
+                        </nav>
+                        <!-- Tabs -->
+                        <!-- Tabs content -->
+                        <div class="shadow tab-content bg-dark border-bottom" id="nav-tabContent">
+                            <div class="tab-pane fade show active p-3" id="nav-development" role="tabpanel" 
+                            aria-labelledby="nav-development-tab">
+                                <?php include "development-tab.php";?>
+                            </div>
+            
+                            <div class="tab-pane fade show p-3" id="nav-art" role="tabpanel" 
+                            aria-labelledby="nav-art-tab">
+                                <?php include "art-tab.php" ?>
+                            </div>
+            
+                            <div class="tab-pane fade show p-3" id="nav-media" role="tabpanel" 
+                            aria-labelledby="nav-media-tab">
+                                <?php include "media-tab.php" ?>
+                            </div>
+            
+                            <div class="tab-pane fade show p-3" id="nav-gaming" role="tabpanel" 
+                            aria-labelledby="nav-gaming-tab">
+                                <?php include "gaming-tab.php" ?>
+                            </div>
+                        </div>
+                        <!-- Tabs content -->
+                        <!-- Tabs tutorial https://www.youtube.com/watch?v=IMM93WydBSw -->
+                    </div>
+                    <div class="d-flex justify-content-end col">
+                        <iframe class="shadow" src="https://discord.com/widget?id=521772451504455680&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                    </div>
             </div>
-            <hr>
-            <div class="inline">
-                <h2>Game dev:</h2>
-                <section>
-                    <a href="https://gann4life.gamejolt.io" class="nav-button">GameJolt</a>
-                    <a href="https://gann4life.itch.io" class="nav-button">Itch.io</a>
-                </section>
-            </div>
-            <hr>
-            <div class="inline">
-                <h2>Software:</h2>
-                <a href="https://github.com/gann4" class="nav-button">GitHub</a>
-            </div>
-            <hr>
-            <div class="inline">
-                <h2>2D & 3D Art:</h2>
-                <a href="https://deviantart.com/gann4life" class="nav-button">DeviantArt</a>
-            </div>
-            <hr>
-            <div class="inline">
-                <h2>Music:</h2>
-                <a href="https://soundcloud.com/user-463322103" class="nav-button">SoundCloud</a>
-            </div>
-            <hr>
-            <div class="inline">
-                <h2>YouTube:</h2>
-                <section>
-                    <a href="https://youtube.com/gann4life" class="nav-button">Gann4Life</a>
-                    <a href="https://youtube.com/zoxtergames" class="nav-button">ZoxterGames</a>
-                </section>
-            </div>
-            <hr>
-            <div class="inline">
-                <h2>General content:</h2>
-                <a href="https://twitter.com/gann4life" class="nav-button">Twitter</a>
-            </div>
-            <hr>
-            <div class="inline">
-                <h2>Gaming profiles:</h2>
-                <section>
-                    <a href="https://psnprofiles.com/Gann4Life" class="nav-button">PSN</a>
-                    <a href="https://steamcommunity.com/id/Gann4Life/" class="nav-button">Steam</a>
-                </section>
-            </div>
-            <hr>
-        </div>
-        
+        </div> 
     </div>
     <?php include "../templates/footer.php"?> 
 </body>
