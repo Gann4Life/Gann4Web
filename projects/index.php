@@ -35,7 +35,7 @@
             </nav>
             <!-- Tabs -->
             <!-- Tabs content -->
-            <div class="tab-content bg-secondary bg-gradient" id="nav-tabContent">
+            <div class="tab-content bg-dark bg-gradient" id="nav-tabContent">
                 <div class="tab-pane fade show active p-3" id="nav-games" role="tabpanel" 
                 aria-labelledby="nav-games-tab">
                     <?php include "games-tab.php";?>

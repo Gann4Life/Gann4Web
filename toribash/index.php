@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="../css/deviantART-gallery.min.css"/>
     <!-- dA Gallery style -->
 </head>
-<body style="background-color: #552525" class="text-white">
+<body class="bg-dark bg-gradient text-white">
     <?php include "../templates/header.php" ?>
 
     <div class="container-fluid">
