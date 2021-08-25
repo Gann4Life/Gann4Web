@@ -11,7 +11,8 @@
 
     <div class="container-fluid">
         <div class="container">
-            <h1 class="my-5 text-center">Welcome to Gann4Life.ga!</h1>
+            <h1 class="my-5 mx-5 text-center">Welcome to Gann4Life.ga!</h1>
+            
 
             <h2>Explore</h2>
             <div class="border-bottom card bg-dark" style="width: 18rem;">

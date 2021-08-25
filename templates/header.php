@@ -5,11 +5,12 @@
 <header>
     <nav class="shadow navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../home">Gann4Life</a>
+            <img style="height:2rem" src="../img/g4a.gif" alt="">
+            <a class="mx-5 navbar-brand" href="../home">Gann4Life</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="d-flex justify-content-end collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="text-center collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                     <a class="nav-link active" aria-current="page" href="../home">Home</a>
                     <a class="nav-link" aria-current="page" href="../projects">Projects</a>
