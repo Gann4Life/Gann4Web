@@ -36,7 +36,7 @@
                             <h5 class="card-title">Thirdym</h5>
                             <p class="card-text">Thirdym is a third person shooter game with active ragdoll physics based on Eric Gurt's Plazma Burst series.</p>
                             <a href="https://gamejolt.com/games/thirdym/261475" class="btn btn-primary">Page</a>
-                            <a href="https://link-to.net/172700/thirdym" class="btn btn-primary">Download</a>
+                            <a href="../thirdym/download" class="btn btn-primary">Download</a>
                         </div>
                     </div>
                 </div>
