@@ -21,100 +21,67 @@
         }
     </style>
 </head>
-<body>
+<body class="bg-dark text-white">
     <?php include "../templates/header.php" ?>
-    <div class="content centered" id="thirdym-site">
-        <h1 class="content-title">Thirdym</h1>
-        <hr>
-        <div class="art-content">
-            <h1>Media</h1>
-            <break>
-            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a69cd076-4094-4504-aa20-cf2c5e9226b7/decvmuc-ba4d5baf-bc85-4877-a2d8-d29b77c3daea.png/v1/fill/w_1192,h_670,q_70,strp/proxy__from_plazma_burst_2___fanart_by_gann4life_decvmuc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD05MDAiLCJwYXRoIjoiXC9mXC9hNjljZDA3Ni00MDk0LTQ1MDQtYWEyMC1jZjJjNWU5MjI2YjdcL2RlY3ZtdWMtYmE0ZDViYWYtYmM4NS00ODc3LWEyZDgtZDI5Yjc3YzNkYWVhLnBuZyIsIndpZHRoIjoiPD0xNjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QzhCLQHUJM2gFUasBjPe9IOnPUP5U4nVN3ci5QAG4_w" alt = "" class="art-item">
-            <img src="img/proxy_day.png" alt="" class="art-item">
-            <img src="img/proxy_fighting.png" alt="" class="art-item">
-            <img src="img/proxy_night.png" alt="" class="art-item">
-            <img src="img/proxy_shoot.png" alt="" class="art-item">
-            <iframe class="art-item" src="https://www.youtube.com/embed/Jp-Gm4IE3y8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <iframe class="art-item" src="https://www.youtube.com/embed/uw5LL7QdcYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        <hr>
-        <!-- Description -->
-        <h1>Highly inspired on Plazma Burst series, by Eric Gurt.</h1>
-        <p>You can follow this game <a class="text-url" href="https://gamejolt.com/games/thirdym/261475">here</a> to recieve notifications when a new devlog is available or any other news for you :)</p>
-        <h2>What is Thirdym?</h2>
-        <p>Thirdym is a third person shooter that uses active ragdolls, which leads to content that's less serious than what it is supposed to be, but has more interaction with the enviroment.</p>
-        <p>It tries to transform the 2D visuals from Plazma Burst series into a new 3D world and to be as interactable as possible for you to experiment and play in any way you want.</p>
-        <hr>
-        <h2>Get early access</h2>
-        <p>As the project is unfinished and is barely 5% done (total), you are going to test the mechanics only, there is no campaign/story content yet, expect bugs and mistakes, that's the point of early access: report errors, glitches and mistakes to help the game to improve!</p>
-        <p>You can get <i>early access</i> by joining to my discord server and requesting a key to the game developer! <a class="text-url" href="social-media">Find server here</a></p>
-        <hr>
-        <div id="changelog">
-            <?php 
-                echo "<p>Current available game version: ";
-                $json_file = file_get_contents("../json/data.json");
-                $jsondata = json_decode($json_file, true);
-                echo $jsondata["games"]["thirdym"]["version"];
-                echo "</p>";
-            ?>
-            <h2>Development activity for the next version</h2>
-            <h3>Added</h3>
-            <ul>
-                <li><p>Training basics scene.</p></li>
-                <li><p>Character selection scene.</p></li>
-                <li><p>Audio configuration screen.</p></li>
-                <li><p>Graphics configuration screen.</p></li>
-                <li><p>Cheats screen.</p></li>
-                <li><p>Crosshair feedback.</p></li>
-                <li><p>Notification system.</p></li>
-                <li><p>Underwater camera effects.</p></li>
-                <li><p>Underwater audio filter.</p></li>
-                <li><p>Controller support.</p></li>
-                <li><p>Prototype explosive barrels.</p></li>
-                <li><p>Prototype zipline mechanic.</p></li>
-                <li><p>Antigravitator AG-51.</p></li>
-                <li><p>Noir Lime model.</p></li>
-                <li><p>NPC Healthbars.</p></li>
-                <li><p>Water & acid particles.</p></li>
-                <li><p>Damage indicators.</p></li>
-                <li><p>Cinemachine cameras system for main menu.</p></li>
-            </ul>
-            <h3>Updated</h3>
-            <ul>
-                <li><p>LootCrates model.</p></li>
-                <li><p>Blood particles.</p></li>
-                <li><p>Aiming: player should try to aim directly towards the center of the screen.</p></li>
-                <li><p>Player input: Input can't be recieved while ingame menu is active.</p></li>
-                <li><p>NPCs will not react when ingame menu is active.</p></li>
-                <li><p>Load and save system: a json file can be used to view saved data, or modify it. (Modifying it may lead to unexpected errors)</p></li>
-                <li><p>Swimming behaviour.</p></li>
-                <li><p>You can raise your arms when grabbing objects.</p></li>
-            </ul>
-            <h3>Fixed</h3>
-            <ul>
-                <li><p>Blades doesn't hurt yourself anymore.</p></li>
-                <li><p>Right arm position when holding swords and aiming at the same time.</p></li>
-                <li><p>Overloading slow motion (AKA Skill bar) bar.</p></li>
-                <li><p>Guns now display properly in the HUD.</p></li>
-            </ul>
-            <h3>Removed</h3>
-            <ul>
-                <li><p>Low poly base mesh.</p></li>
-                <li><p>Overhead health particle indicator.</p></li>
-                <li><p>Character lost of balance on gunshots and hard collisions.</p></li>
-                <li><p>PlayerPrefs save and load system. Replaced with json.</p></li>
-            </ul>
-            <h3>Work in progress</h3>
-            <ul>
-                <li><p>In-depth graphics configuration.</p></li>
-                <li><p>Sandbox map.</p></li>
-                <li><p>Training maps.</p></li>
-                <li><p>Teleporters.</p></li>
-                <li><p>Cinemachine as third person cameras.</p></li>
-                <li><p>Proxy model.</p></li>
-            </ul>
+
+    <div class="container-fluid">
+        <img class="shadow-lg" style="max-width: 100vw" src="https://m.gjcdn.net/game-header/1900/261475-crop0_188_2500_813-jdracjsv-v4.webp" alt="">
+        <div class="row">
+            <div class="col container">
+                <div class="text-center">
+                    <!-- Title -->
+                    <div class="my-5">
+                        <h1>Thirdym</h1>
+                        <p class="text-muted"> v<?php 
+                            $json_file = file_get_contents("../json/data.json");
+                            $jsondata = json_decode($json_file, true);
+                            echo $jsondata["games"]["thirdym"]["version"];
+                        ?>
+                        </p>
+                        
+                        <p>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16">
+                            <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/>
+                            <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/>
+                            </svg>    
+                            <a class="text-white" href="https://gamejolt.com/games/thirdym/261475">View GameJolt site and devlogs.</a>
+                        </p>
+                    </div>
+                    
+                    <!-- Description section -->
+                    <p>Thirdym is a third person shooter game with active ragdoll physics based on Eric Gurt's Plazma Burst series.<br>
+                    It tries to transform the 2D visuals from Plazma Burst series into a new 3D world, to be as interactable as possible for you to experiment and play in any way you want.</p>
+
+                    <p class="text-warning">
+                        The project is still unfinished, you're not going to experience as much as i'd like to share. <br>
+                        There is no campaign or story content yet, expect bugs and mistakes. <br>
+                        Make sure to report bugs after you play, to help the game improve!
+                    </p>
+                    <!-- Download section -->
+
+                    <a href="/download" type="button" class="btn btn-danger">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-cloud-arrow-down-fill" viewBox="0 0 16 16">
+                        <path d="M8 2a5.53 5.53 0 0 0-3.594 1.342c-.766.66-1.321 1.52-1.464 2.383C1.266 6.095 0 7.555 0 9.318 0 11.366 1.708 13 3.781 13h8.906C14.502 13 16 11.57 16 9.773c0-1.636-1.242-2.969-2.834-3.194C12.923 3.999 10.69 2 8 2zm2.354 6.854-2 2a.5.5 0 0 1-.708 0l-2-2a.5.5 0 1 1 .708-.708L7.5 9.293V5.5a.5.5 0 0 1 1 0v3.793l1.146-1.147a.5.5 0 0 1 .708.708z"/>
+                        </svg>
+                        <br>
+                        Download
+                    </a>             
+                </div>
+            </div>
+            <div class="col-lg container text-center">
+                <h1 class="my-5">Screenshots & art</h1>
+
+                <div class="row">
+                    <img style="max-width: 50%;" class="col my-2" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a69cd076-4094-4504-aa20-cf2c5e9226b7/decvmuc-ba4d5baf-bc85-4877-a2d8-d29b77c3daea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2OWNkMDc2LTQwOTQtNDUwNC1hYTIwLWNmMmM1ZTkyMjZiN1wvZGVjdm11Yy1iYTRkNWJhZi1iYzg1LTQ4NzctYTJkOC1kMjliNzdjM2RhZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QWf5vIjlDNjKhHn4zxEv8Bi_WUWK9l4EIt015X7C4aQ" alt="">
+                    <img style="max-width: 50%;" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301338-itnz6a3a-v4.webp" alt="">
+                    <img style="max-width: 50%;" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301334-atxbgxqe-v4.webp" alt="">
+                    <img style="max-width: 50%;" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301333-smjiznbn-v4.webp" alt="">
+
+                </div>
+            </div>
         </div>
     </div>
+
     <?php include "../templates/footer.php" ?>
 </body>
 </html>
