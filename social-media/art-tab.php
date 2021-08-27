@@ -1,8 +1,8 @@
 <h2 class="text-center">Art profiles</h2>
 
 
-<div class="row row-cols-2">
-    <div class="col">
+<div class="row">
+    <div class="col-md">
         <hr>
         <a href="https://deviantart.com/gann4life" class="nav-button text-white">
         <p>
@@ -14,7 +14,7 @@
         </a>
         
     </div>
-    <div class="col">
+    <div class="col-md">
         <hr>
         <a href="https://soundcloud.com/user-463322103" class="nav-button text-white">
             <p>

@@ -1,7 +1,7 @@
 <h2 class="text-center">Media profiles</h2>
 
-<div class="row row-cols-2">
-    <div class="col">
+<div class="row">
+    <div class="col-md">
         <hr>
         <a href="https://youtube.com/gann4life" class="nav-button text-white">
             <p>
@@ -13,7 +13,7 @@
             </p>
         </a>
     </div>
-    <div class="col">
+    <div class="col-md">
         <hr>
         <a href="https://youtube.com/zoxtergames" class="nav-button text-white">
             <p>
@@ -25,7 +25,7 @@
             </p>
         </a>
     </div>
-    <div class="col">
+    <div class="col-md">
         <hr>
         <a href="https://twitter.com/gann4life" class="nav-button text-white">
             <p>

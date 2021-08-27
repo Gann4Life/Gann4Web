@@ -1,7 +1,7 @@
 <h2 class="text-center">Games</h2>
 
 <div class="container-fluid">
-    <div class="md-auto row">
+    <div class="text-center row">
         <div class="col-lg my-2">
             <!-- Thirdym -->
             <iframe src="https://widgets.gamejolt.com/package/v1?key=n679RrTr" frameborder="0" width="500" height="245"></iframe>

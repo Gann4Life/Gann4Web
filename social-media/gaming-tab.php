@@ -1,7 +1,7 @@
 <h2 class="text-center">Gaming profiles</h2>
 
-<div class="row row-cols-2">
-    <div class="col">
+<div class="row">
+    <div class="col-md">
         <hr>
         <a href="https://psnprofiles.com/Gann4Life" class="nav-button text-white">
             <p>
@@ -15,7 +15,7 @@
         </a>
 
     </div>
-    <div class="col">
+    <div class="col-md">
         <hr>
         <a href="https://steamcommunity.com/id/Gann4Life/" class="nav-button text-white">
             <p>
