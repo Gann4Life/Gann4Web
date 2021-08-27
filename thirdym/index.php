@@ -65,17 +65,18 @@
                         </svg>
                         <br>
                         Download
-                    </a>             
+                    </a>
+                    <p class="text-danger d-lg-none">Only for Windows.</p>
                 </div>
             </div>
             <div class="col-lg container text-center">
                 <h1 class="my-5">Screenshots & art</h1>
 
                 <div class="row">
-                    <img style="max-width: 50%;" class="col my-2" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a69cd076-4094-4504-aa20-cf2c5e9226b7/decvmuc-ba4d5baf-bc85-4877-a2d8-d29b77c3daea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2OWNkMDc2LTQwOTQtNDUwNC1hYTIwLWNmMmM1ZTkyMjZiN1wvZGVjdm11Yy1iYTRkNWJhZi1iYzg1LTQ4NzctYTJkOC1kMjliNzdjM2RhZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QWf5vIjlDNjKhHn4zxEv8Bi_WUWK9l4EIt015X7C4aQ" alt="">
-                    <img style="max-width: 50%;" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301338-itnz6a3a-v4.webp" alt="">
-                    <img style="max-width: 50%;" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301334-atxbgxqe-v4.webp" alt="">
-                    <img style="max-width: 50%;" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301333-smjiznbn-v4.webp" alt="">
+                    <img style="max-width: 50%; border-radius: 5%" class="col my-2" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a69cd076-4094-4504-aa20-cf2c5e9226b7/decvmuc-ba4d5baf-bc85-4877-a2d8-d29b77c3daea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2OWNkMDc2LTQwOTQtNDUwNC1hYTIwLWNmMmM1ZTkyMjZiN1wvZGVjdm11Yy1iYTRkNWJhZi1iYzg1LTQ4NzctYTJkOC1kMjliNzdjM2RhZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QWf5vIjlDNjKhHn4zxEv8Bi_WUWK9l4EIt015X7C4aQ" alt="">
+                    <img style="max-width: 50%; border-radius: 5%" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301338-itnz6a3a-v4.webp" alt="">
+                    <img style="max-width: 50%; border-radius: 5%" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301334-atxbgxqe-v4.webp" alt="">
+                    <img style="max-width: 50%; border-radius: 5%" class="col my-2" src="https://m.gjcdn.net/game-screenshot/1100/8301333-smjiznbn-v4.webp" alt="">
 
                 </div>
             </div>
