@@ -16,6 +16,7 @@
 
             <h2 class="text-muted text-center">Explore</h2>
             <hr>
+
             <div class="row">
                 <!-- Gann4Art community -->
                 <div class="col-lg-4 my-5">
@@ -57,6 +58,9 @@
                     </div>    
                 </div>
             </div>
+
+            <p class="text-muted text-center" id="home_viewcount">0</p>
+            <script src="../js/home_viewcount.js"></script>
 
         </div>
     </div>
