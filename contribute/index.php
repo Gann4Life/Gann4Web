@@ -55,24 +55,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- <div class="row row-cols-3">
-                <div class="shadow col">
-                    <p>You can provide help and suggestions to the source code of my public projects.</p>
-                    <a type="button" href="https://github.com/gann4" class="btn btn-primary nav-button">Help to develop projects</a>
-                </div>
-                <div class="shadow border-start border-end col">
-                    <p>You can support me trough direct donations.</p>
-                    <a type="button" href="https://www.paypal.com/donate?hosted_button_id=S59T3R6LTCEB4" class="btn btn-primary nav-button">Donate with PayPal</a>
-                </div>
-                <div class="shadow col">
-                    <p>You can buy art i made too!</p>
-                    <a type="button" href="https://www.deviantart.com/gann4life/shop" class="btn btn-primary nav-button">Buy art</a>
-                </div>
-            </div> -->
-
-
-
         </div>
     </div>
     <?php include "../templates/footer.php" ?>
