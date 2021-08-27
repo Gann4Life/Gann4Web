@@ -16,9 +16,9 @@
 
             <h2 class="text-muted text-center">Explore</h2>
             <hr>
-            <div class="justify-content-center row row-cols-4">
+            <div class="justify-content-center row">
                 <!-- Gann4Art community -->
-                <div class="col">
+                <div class="col-lg-4">
                     <div class="shadow bg-dark border-0 card" style="width: 18rem;">
                         <img src="../img/g4abgfill.png" class="card-img-top" alt="...">
                         <div class="card-body text-center">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
                 <!-- Thirdym -->
-                <div class="col">
+                <div class="col-lg-4">
                     <div class="shadow bg-dark border-0 card" style="width: 18rem;">
                         <img src="https://m.gjcdn.net/game-screenshot/300/8301331-s6iaph3g-v4.webp" class="card-img-top" alt="...">
                         <div class="card-body text-center">
@@ -41,7 +41,7 @@
                     </div>
                 </div>
                 <!-- Toribash art -->
-                <div class="col">
+                <div class="col-lg-4">
                     <div class="shadow bg-dark border-0 card" style="width: 18rem;">
                         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a69cd076-4094-4504-aa20-cf2c5e9226b7/ded1k11-3122103e-962f-4eb8-8a18-5b486bf5cde6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2OWNkMDc2LTQwOTQtNDUwNC1hYTIwLWNmMmM1ZTkyMjZiN1wvZGVkMWsxMS0zMTIyMTAzZS05NjJmLTRlYjgtOGExOC01YjQ4NmJmNWNkZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ex5Gt03K0HjrnkZFPVFlgRmfmlQyUaND4sLCZZyZLJw" class="card-img-top" alt="...">
                         <div class="card-body text-center">
