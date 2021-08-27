@@ -1,7 +1,7 @@
-<h2>Art</h2>
+<h2 class="text-center">Art</h2>
 
-<div class="container">
-    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+<div class="d-flex justify-content-center container">
+    <div style="max-width: 75vw" id="carouselExample" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button  data-bs-target="#carouselExample" data-bs-slide-to="0" class="active"></button>
             <button  data-bs-target="#carouselExample" data-bs-slide-to="1"></button>
