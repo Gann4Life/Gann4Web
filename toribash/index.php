@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="../css/deviantART-gallery.min.css"/>
     <!-- dA Gallery style -->
 </head>
-<body class="bg-dark bg-gradient text-white">
+<body class="bg-dark text-white">
     <?php include "../templates/header.php" ?>
 
     <div class="container-fluid">
@@ -34,8 +34,8 @@
             <hr>
             <!-- Credit -->
         </div>
-        <a class="text-decoration-none" href="https://github.com/jamesl1001/deviantART-Gallery-Plugin">
-            <p class="text-center text-muted">
+        <a class="text-muted text-center" href="https://github.com/jamesl1001/deviantART-Gallery-Plugin">
+            <p>
                 deviantART-gallery-plugin by jamesl1001
             </p>
         </a>
