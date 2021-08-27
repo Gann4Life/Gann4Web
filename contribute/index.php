@@ -16,18 +16,18 @@
             <p class="text-center">You have different ways in which you can contribute to my content...</p>
 
             <div class="row d-flex justify-content-center">
-                <div class="col-sm-4">
-                    <div class="shadow border-0 my-2 bg-dark card">
+                <div class="col-lg-4">
+                    <div class="shadow border-0 my-5 bg-dark card">
                         <div class="card-body border-bottom">
-                            <h5 class="card-title">Contribute by building along me</h5>
+                            <h5 class="card-title">Contribute by being part of the team</h5>
                             <p class="card-text">You can provide help and suggestions to the source code of my public projects.</p>
                             <a type="button" href="https://github.com/gann4" class="btn btn-primary nav-button">Contribute</a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-sm-4">
-                    <div class="shadow border-0 my-2 bg-dark card">
+                <div class="col-lg-4">
+                    <div class="shadow border-0 my-5 bg-dark card">
                         <div class="card-body border-bottom">
                             <h5 class="card-title">Donate by using PayPal</h5>
                             <p class="card-text">You can support me trough direct donations using PayPal.</p>
@@ -36,12 +36,21 @@
                     </div>
                 </div>
                 
-                <div class="col-sm-4">
-                    <div class="shadow border-0 my-2 bg-dark card">
+                <div class="col-lg-4">
+                    <div class="shadow border-0 my-5 bg-dark card">
                         <div class="card-body border-bottom">
                             <h5 class="card-title">Buy my art</h5>
                             <p class="card-text">You can buy any art and/or prints i make from these too!</p>
-                            <a type="button" href="https://www.deviantart.com/gann4life/shop" class="btn btn-primary nav-button">Buy art</a>
+                            <a class="btn btn-primary nav-button" type="button" href="https://www.deviantart.com/gann4life/shop">Buy art</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="shadow border-0 my-5 bg-dark card">
+                        <div class="card-body border-bottom">
+                            <h5 class="card-title">Keep navigating!</h5>
+                            <p class="card-text">This website contains ads, by navigating, you're already contributing :)</p>
                         </div>
                     </div>
                 </div>
