@@ -1,11 +1,11 @@
-<h2>Software</h2>
+<h2 class="text-center">Software</h2>
 
 <div class="container">
-    <div class="row row-cols-4">
+    <div class="row">
 
         <!-- MediafireDL -->
-        <div class="col">
-            <div class="border-bottom card bg-dark bg-gradient" style="width: 18rem;">
+        <div class="col-lg my-2">
+            <div class="mx-auto border-bottom card bg-dark bg-gradient" style="width: 18rem;">
                 <!-- <a href="https://github.com/Gann4/Store-Manager">
                 <img src="https://m.gjcdn.net/game-thumbnail/500/261475-2fu4affy-v4.webp" class="card-img-top" alt="...">
                 </a> -->
@@ -21,8 +21,8 @@
         </div>
 
         <!-- Gann4Web -->
-        <div class="col">
-            <div class="border-bottom card bg-dark bg-gradient" style="width: 18rem;">
+        <div class="col-lg my-2">
+            <div class="mx-auto border-bottom card bg-dark bg-gradient" style="width: 18rem;">
             <!-- <a href="https://github.com/Gann4/Store-Manager">
                     <img src="https://m.gjcdn.net/game-thumbnail/500/261475-2fu4affy-v4.webp" class="card-img-top" alt="...">
                 </a> -->
@@ -37,8 +37,8 @@
         </div>
 
         <!-- Store Manager -->
-        <div class="col">
-            <div class="border-bottom card bg-dark bg-gradient" style="width: 18rem;">
+        <div class="col-lg my-2">
+            <div class="mx-auto border-bottom card bg-dark bg-gradient" style="width: 18rem;">
             <!-- <a href="https://github.com/Gann4/Store-Manager">
                     <img src="https://m.gjcdn.net/game-thumbnail/500/261475-2fu4affy-v4.webp" class="card-img-top" alt="...">
                 </a> -->

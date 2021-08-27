@@ -1,7 +1,7 @@
 <h2 class="text-center">Development profiles</h2>
 
-<div class="row row-cols-2">
-    <div class="col">
+<div class="row">
+    <div class="col-md">
         <hr>
         <a id="gamejolt" href="https://gann4life.gamejolt.io" class="nav-button text-white">
             <p>
@@ -14,7 +14,7 @@
             </p>
         </a>
     </div>
-    <div class="col">
+    <div class="col-md">
         <hr>
         <a href="https://gann4life.itch.io" class="nav-button text-white">
             <p>
@@ -27,7 +27,7 @@
             </p>
         </a>
     </div>
-    <div class="col">
+    <div class="col-md">
         <hr>
         <a href="https://github.com/gann4" class="nav-button text-white">
             <p>

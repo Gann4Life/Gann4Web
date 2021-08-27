@@ -11,3 +11,19 @@
 
     gtag('config', 'G-S0BC1Z17B7');
 </script>
+
+<!-- Watermark removal (https://gist.github.com/Richienb/92ed3443519f782cbc73143b190b238b#file-removebranding-css) -->
+<style>
+    img[alt*="000webhost"],
+    img[alt*="000webhost"][style],
+    img[src*="000webhost"],
+    img[src*="000webhost"][style],
+    body > div:nth-last-of-type(1)[style]{
+        opacity: 0 !important;
+        pointer-events:none !important;
+        width: 0px !important;
+        height: 0px !important;
+        visibility:hidden !important;
+        display:none !important;
+    }
+</style>

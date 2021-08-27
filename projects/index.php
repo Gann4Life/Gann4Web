@@ -11,7 +11,10 @@
 
     <div class="container-fluid">
         <div class="container">
-            <h1 class="my-5 text-center">Projects</h1>
+            <div class="my-5 text-center">
+                <h1>Projects expo</h1>
+                <p class="text-muted">Take this as a portfolio for my best works in each category.</p>
+            </div>
 
             <!-- Tabs -->
             <nav>
