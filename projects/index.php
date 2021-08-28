@@ -12,9 +12,11 @@
     <div class="container-fluid">
         <div class="container">
             <div class="my-5 text-center">
-                <h1>Projects expo</h1>
+                <h1>Projects</h1>
                 <p class="text-muted">Take this as a portfolio for my best works in each category.</p>
             </div>
+
+            <p class="text-center text-warning">Go to <a class="text-warning" href="../social-media">Social</a> page for more content.</p>
 
             <!-- Tabs -->
             <nav>
