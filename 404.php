@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <?php include "../templates/general-imports.php" ?>
+    <?php include "templates/general-imports.php" ?>
 
     <title>Unknown page</title>
 </head>
 <body class="bg-dark text-white">
-    <?php include "../templates/header.php" ?>
+    <?php include "templates/header.php" ?>
 
     <div class="container-fluid">
         <div class="container text-center">
@@ -23,6 +23,6 @@
         </div>
     </div>
 
-    <?php include "../templates/footer.php" ?>
+    <?php include "templates/footer.php" ?>
 </body>
 </html>
