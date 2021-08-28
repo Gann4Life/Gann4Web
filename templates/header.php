@@ -1,19 +1,26 @@
+<!-- Bootsrap update -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+<!-- Bootsrap update -->
+
 <header>
-    <nav>
-        <h1 class="header-title">
-            Gann4Life.ga
-        </h1>
-        <div id="menu-button" class="nav-button">Menu</div>
-        <div class="header-buttons remove">                
-            <a href="../home" class="nav-button">Home</a>
-            <a href="../projects" class="nav-button">Projects</a>
-            <a href="../social-media" class="nav-button">Social media</a>
-            <a href="../about" class="nav-button">About</a>
-            <a href="mailto:santiago_ariel_mansilla@hotmail.com" class="nav-button">Contact</a>
-            <!--<a href="contact.php" class="nav-button">Contact</a>-->
+    <nav class="shadow navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <img style="height:2rem" src="../img/g4a.gif" alt="">
+            <a class="mx-5 navbar-brand" href="../home">Gann4Life</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="justify-content-end text-center collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" aria-current="page" href="../home">Home</a>
+                    <a class="nav-link" aria-current="page" href="../projects">Projects</a>
+                    <a class="nav-link" href="../social-media">Social</a>
+                    <a class="nav-link" href="../about">About</a>
+                    <a class="nav-link" href="mailto:santiago_ariel_mansilla@hotmail.com">Contact</a>
+                </div>
+            </div>
         </div>
     </nav>
 </header>
-<script src="../js/responsive-header.js"></script>
 
-<script src="https://linkvertise.net/cdn/linkvertise.js"></script><script>linkvertise(172700, {whitelist: [], blacklist: ["gann4life.ga", "youtube.com"]});</script>
+<script src="https://linkvertise.net/cdn/linkvertise.js"></script><script>linkvertise(172700, {whitelist: [], blacklist: ["gann4life.ga", "youtube.com", "localhost:4000"]});</script>
