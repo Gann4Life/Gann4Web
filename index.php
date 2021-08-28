@@ -5,9 +5,9 @@
     $site_data_maintenance = $site_data["maintenance"];
 
     if ($site_data_maintenance == "true"){
-        header("Location: beta/maintenance");
+        header("Location: /maintenance");
     } else {
-        header("Location: beta/home");
+        header("Location: /home");
     }
 ?>
 
