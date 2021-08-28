@@ -14,7 +14,7 @@
             <h1 class="my-5 text-center">Social Media</h1>
             
             <!-- Tabs -->
-            <div>
+            <div style="max-width: 50rem" class="mx-auto">
                 <nav>
                     <div class="nav nav-tabs bg-gradient" id="nav-tab" role="tablist">
                         <button class="nav-link active" id="nav-development-tab" data-bs-toggle="tab"
