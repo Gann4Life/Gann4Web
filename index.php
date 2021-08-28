@@ -9,7 +9,7 @@
     } else {
         header("Location: /home");
     }
-?>    
+?>
 
 <!DOCTYPE html>
 <html lang="en">

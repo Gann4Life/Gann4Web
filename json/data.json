@@ -1,0 +1,24 @@
+{
+    "games":{
+        "thirdym":{
+            "version": "0.1.0-alpha",
+            "download": ""
+        }
+    },
+    "apps":{
+        "ldp_store_manager":{
+            "version":"undefined",
+            "download_link":""
+        },
+        "thirdym_launcher":{
+            "version": "dev_0.0.15b",
+            "download": null
+        }
+    },
+    "websites":{
+        "gann4life":
+        {
+            "maintenance": "false"
+        }
+    }
+}

@@ -1,4 +1,8 @@
-<footer>
-    <a href="..\contribute" class="nav-button">Contribute</a>
-    <p>Created by Gann4Life</p>
+<hr class="my-5">
+
+<footer class="shadow border-top fixed-bottom navbar navbar-dark bg-dark">
+    <div class="container">
+        <a type="button" class="btn btn-dark nav-item" href="../contribute">Contribute</a>
+        <p class="text-muted">Created by Gann4Life</p>
+    </div>
 </footer>
