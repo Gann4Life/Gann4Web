@@ -4,22 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thirdym by Gann4Life</title>
+    
     <?php include "../templates/general-imports.php" ?>
-    <style>
-        body:before{
-            content: '';
-            position: fixed;
-            width: 100vw;
-            height: 100vh;
-            background-image: url("img/thirdym-bg.png");
-            background-position: center center;
-            background-repeat: no-repeat;
-            background-position: 100% 100%;
-            background-size: cover;
-            filter: blur(20px);
-            z-index: -9;
-        }
-    </style>
+    <link rel="stylesheet" href="../css/thirdym.css">
 </head>
 <body class="bg-dark text-white">
     <?php include "../templates/header.php" ?>
