@@ -1,0 +1,11 @@
+body:before{
+    content: '';
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../gann4mc/img/mc-forest.png");
+    background-size: cover;
+    opacity: 0.1;
+    filter: blur(10px);
+    z-index: -9;
+}

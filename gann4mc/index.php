@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gann4MC</title>
+    
+    <link rel="stylesheet" href="../css/gann4mc.css">
     <?php include "../templates/general-imports.php" ?>
 </head>
 <body class="bg-dark text-white">
@@ -64,11 +66,11 @@
             </div>
             <div class="col-lg">
                 <h4 class="text-center my-5">Screenshots</h4>
-                <div class="row justify-content-center">
-                    <img style="max-width: 25rem" class="my-2 col-lg" src="img/mc-creations.png" alt="">
-                    <img style="max-width: 25rem" class="my-2 col-lg" src="img/mc-forest.png" alt="">
-                    <img style="max-width: 25rem" class="my-2 col-lg" src="img/mc-life.png" alt="">
-                    <img style="max-width: 25rem" class="my-2 col-lg" src="img/mc-machines.png" alt="">
+                <div class="row justify-content-center text-center">
+                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-creations.png" alt="">
+                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-forest.png" alt="">
+                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-life.png" alt="">
+                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-machines.png" alt="">
                 </div>
             </div>
             <hr>
@@ -99,7 +101,7 @@
                     </ul>
                 </div>
                 <div class="col-lg">
-                    <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1-oYV-GEiW1beyQ_jCt237LQv1PCiDX3h?usp=sharing">
+                    <a class="d-block justify-content-center btn btn-primary" href="https://drive.google.com/drive/folders/1-oYV-GEiW1beyQ_jCt237LQv1PCiDX3h?usp=sharing">
                         <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-cloud-arrow-down-fill" viewBox="0 0 16 16">
                         <path d="M8 2a5.53 5.53 0 0 0-3.594 1.342c-.766.66-1.321 1.52-1.464 2.383C1.266 6.095 0 7.555 0 9.318 0 11.366 1.708 13 3.781 13h8.906C14.502 13 16 11.57 16 9.773c0-1.636-1.242-2.969-2.834-3.194C12.923 3.999 10.69 2 8 2zm2.354 6.854-2 2a.5.5 0 0 1-.708 0l-2-2a.5.5 0 1 1 .708-.708L7.5 9.293V5.5a.5.5 0 0 1 1 0v3.793l1.146-1.147a.5.5 0 0 1 .708.708z"/>
                         </svg>    
