@@ -69,8 +69,8 @@
                 <div class="row justify-content-center text-center">
                     <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-creations.png" alt="">
                     <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-forest.png" alt="">
-                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-life.png" alt="">
-                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-machines.png" alt="">
+                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-horses.png" alt="">
+                    <img style="max-width: 25rem; border-radius: 5%;" class="my-2 col-lg" src="img/mc-caves.png" alt="">
                 </div>
             </div>
             <hr>
