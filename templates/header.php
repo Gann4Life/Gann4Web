@@ -1,7 +1,3 @@
-<!-- Bootsrap update -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-<!-- Bootsrap update -->
-
 <header>
     <nav class="shadow navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -22,5 +18,3 @@
         </div>
     </nav>
 </header>
-
-<script src="https://linkvertise.net/cdn/linkvertise.js"></script><script>linkvertise(172700, {whitelist: [], blacklist: ["gann4life.ga", "adfoc.us", "localhost:4000"]});</script>
