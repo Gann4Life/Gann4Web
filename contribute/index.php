@@ -8,6 +8,7 @@
 </head>
 <body class="bg-dark text-white">
     <?php include "../templates/header.php" ?>
+
     <div class="conainer-fluid">
 
         <div class="container">
@@ -54,9 +55,10 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>            
         </div>
     </div>
+
     <?php include "../templates/footer.php" ?>
 </body>
 </html>

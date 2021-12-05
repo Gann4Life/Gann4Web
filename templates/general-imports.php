@@ -1,6 +1,7 @@
 <!-- Bootstrap update -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-<link rel="icon" href="../img/G4A.png"></link>
+<link rel="icon" href="https://a.deviantart.net/avatars-big/g/a/gann4life.png"></link>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S0BC1Z17B7"></script>
@@ -12,18 +13,5 @@
     gtag('config', 'G-S0BC1Z17B7');
 </script>
 
-<!-- Watermark removal (https://gist.github.com/Richienb/92ed3443519f782cbc73143b190b238b#file-removebranding-css) -->
-<style>
-    img[alt*="000webhost"],
-    img[alt*="000webhost"][style],
-    img[src*="000webhost"],
-    img[src*="000webhost"][style],
-    body > div:nth-last-of-type(1)[style]{
-        opacity: 0 !important;
-        pointer-events:none !important;
-        width: 0px !important;
-        height: 0px !important;
-        visibility:hidden !important;
-        display:none !important;
-    }
-</style>
+<!-- Ads -->
+<script src="https://linkvertise.net/cdn/linkvertise.js"></script><script>linkvertise(172700, {whitelist: [], blacklist: ["gann4life.ga", "adfoc.us", "localhost:4000"]});</script>

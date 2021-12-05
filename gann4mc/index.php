@@ -32,6 +32,7 @@
                         <li><p>Forge 36.2.2</p></li>
                         <li><p>'Create' mod.</p></li>
                         <li><p>'Create' dependency: 'Flywheel'</p></li>
+                        <li><p>'Chisels & Bits' mod.</p></li>
                     </ul>
                 </div>
                 <div class="col-lg">
@@ -48,6 +49,9 @@
                         </li>
                         <li>
                             <p>Install <a href="https://drive.google.com/file/d/18L3lGHdsAQisro_ONchgeSmVRf8Heduj/view?usp=sharing">Create</a> into your mods folder.</p>
+                        </li>
+                        <li>
+                            <p>Install <a href="https://drive.google.com/file/d/1ippUha5iKCoUNvWtvJPdcLZ2uarM4I_z/view?usp=sharing">Chisels & Bits</a> into your mods folder.</p>
                         </li>
                         <li>
                             <p>Join to  
@@ -81,7 +85,6 @@
                     <p>Any mod that adds extra features for everyone to use is incompatible to use in Gann4MC. (Non client mods)</p>
                     <p>Examples of incompatible mods:</p>
                     <ul>
-                        <li><p>Chisels & bits mod</p></li>
                         <li><p>Real survivor mod</p></li>
                         <li><p>First aid mod</p></li>
                         <li><p>Sit mod</p></li>
