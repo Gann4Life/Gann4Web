@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include "../templates/general-imports.php" ?>
-    <title>Toribash art</title>
+    <title>Toribash Art Requests</title>
 
     <!-- dA Gallery style -->
     <link rel="stylesheet" type="text/css" href="../css/deviantART-gallery.min.css"/>
@@ -15,6 +15,7 @@
     <header>
         <nav class="shadow navbar navbar-expand-lg navbar-dark bg-danger">
             <div class="container-fluid">
+                <img style="width: 3rem" src="https://a.deviantart.net/avatars-big/g/a/gann4life.png" alt="">
                 <a class="mx-5 navbar-brand" href="../home"><b>◄ Return</b></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -28,7 +29,7 @@
             <h1>Requests for Toribash</h1>
         </div>
         <div>
-            <!-- Left side -->
+            <!-- Art showcase section -->
             <h3 class="text-center">Preview/showcase</h3>
             <div class="d-flex flex-wrap justify-content-center text-center my-5">
                 <!-- Anime-Like -->
@@ -80,8 +81,8 @@
                 </div>
             </div>
             <hr>
-            <!-- Right (or bottom) side -->
-            <div class="container">
+            <!-- Payment section -->
+            <div class="container py-5"> 
                 <h3 class="text-center">Pricing</h3>
                 <br>
                 <table class="bg-white mx-auto shadow-lg border text-center text-dark w-50">
@@ -139,8 +140,9 @@
                     </div>
                 </div>
                 <div class="py-5 mx-auto text-center">
-                    <p>All i need to know is what you want me to make for you. Optionally you can join to my discord server and talk to me directly so i can share the progress. :)</p>
-                    <a href="../discord">Join discord server</a>
+                    <p>All i need to know is what you want me to make for you. <br> 
+                    Optionally you can join to my discord server and talk to me directly so i can share the progress after the request. :)</p>
+                    <a class="btn btn-primary bg-primary text-decoration-none" href="../discord">Join discord server</a>
                 </div>
                 <br>
             </div>

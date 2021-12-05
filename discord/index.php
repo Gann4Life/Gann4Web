@@ -12,7 +12,7 @@
 </head>
 <body class="bg-dark text-white">
     <?php include "../templates/header.php" ?>
-    <div class="d-block  justify-content-center text-center container-fluid">
+    <div class="d-block justify-content-center text-center container-fluid">
         <div class="my-5">
             <h1>Gann4Art</h1>
             <p class="text-muted">Where artists are always welcome!</p>
@@ -21,6 +21,10 @@
         <div class="container">
             <iframe class="shadow" src="https://discord.com/widget?id=521772451504455680&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         </div>
+        <br>
+        <a class="btn btn-secondary bg-secondary" href="https://discord.gg/8USgTyxkKZ">
+            Join now!
+        </a>
     </div>
     <?php include "../templates/footer.php" ?>
 </body>
